@@ -47,6 +47,10 @@
 </div>
 <br><br> 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThaisAmancio&theme=transparent&bg_color=000&border_color=75426c&show_icons=true&icon_color=75426c&title_color=75426c&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThaisAmancio&layout=compact&bg_color=000&border_color=75426c&title_color=75426c&text_color=FFF)
+
 ###
 
 <p align="left"></p>
